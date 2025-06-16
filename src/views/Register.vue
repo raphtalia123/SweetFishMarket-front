@@ -66,7 +66,7 @@ export default {
 <style scoped>
 .wrapper {
   height: 100vh;
-  background-image: url("@/resource/img/login_back.png");
+  background-image: url("@/resource/img/back.png");
   overflow: auto;
 }
 .login-box {

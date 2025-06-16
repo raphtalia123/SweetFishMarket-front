@@ -7,8 +7,8 @@
   <div class="login-window-index">
 
       <div class="title">
-        <b><img src="../resource/logo.png" style="width: 40px;position: relative; top: 13px;right: 6px">
-          <span style="color: #e75c09">登录甜鱼购物商城</span>
+        <b><img src="../resource/logo.png" style="width: 70px;position: relative;margin-top: 10px;">
+          <span style="color: #e75c09 ">登录甜鱼购物商城</span>
         </b>
       </div>
 
@@ -46,7 +46,7 @@ export default {
       user: {},
       backgroundDiv: {
         backgroundImage:
-            "url(" + require("@/resource/img/login_back.png") + ")",
+            "url(" + require("@/resource/img/back.png") + ")",
         backgroundRepeat: "no-repeat",
         backgroundSize: "100% 100%",
       },

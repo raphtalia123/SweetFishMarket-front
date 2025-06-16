@@ -47,7 +47,7 @@
 .bk {
   width: 100%;
   /*项目背景图*/
-  background: url("@/resource/img/back.jpg") center center no-repeat;
+  background: url("@/resource/img/back.png") center center no-repeat;
   background-size: 100% 100%;
 }
 

@@ -12,10 +12,10 @@
 
     <!-- 标题，图标等   -->
     <div style="height: 60px;margin-left: 30px; line-height: 60px">
-      <router-link to="/manage/home">
-        <img src="../resource/logo.png" style="width: 40px;position: relative; top: 13px;right: 6px">
-      </router-link>
-      <span slot="title" style="color: aliceblue;font-size: 20px" v-show="!isCollapse">商城管理系统</span>
+      <!-- <router-link to="/manage/home">
+        <img src="../resource/logo.png" style="width: 40px;position: relative">
+      </router-link> -->
+      <span slot="title" style="color: aliceblue;font-size: 20px" v-show="!isCollapse">甜鱼后台管理系统</span>
     </div>
 
     <!-- 主页跳转 -->
